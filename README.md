@@ -15,4 +15,5 @@ This repository documents my 90-day structured journey into Machine Learning.
 ## Progress
 Day 1: Environment setup </br>
 Day 2: Python syntax refresh (Java -> Python) </br>
-Day 3: NumPy Arrays, Vectorization, Normalisation vs Standardisation
+Day 3: NumPy Arrays, Vectorization, Normalisation vs Standardisation </br>
+Day 4: pandas basics, dataset loading, netflix EDA
